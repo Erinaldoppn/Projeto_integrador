@@ -4,7 +4,7 @@
 
     apt install -y graphviz aspell ghostscript clamav git
 
-![moddle1](install moddle.JPG)
+![install](install-moddle.JPG)
 
 <p>Instalação do mariadb</p>
 
